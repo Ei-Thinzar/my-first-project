@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.bg{
+    background-image: url(./images/i1.jpg);
+    width: 800px;
+    height: 800px;
+    background-size: cover;
+    
+}
